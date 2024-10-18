@@ -67,6 +67,7 @@ p {
     margin-left: 20%;
     margin-right: 20%;
     border-radius: 100px;
+    border: 2px solid lightgray;
 }
 
 .linkDefault {

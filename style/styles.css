@@ -20,7 +20,7 @@ h1 {
 
 .good-end-text
 {
-    color: green;
+    color: rgb(10, 181, 10);
 }
 
 .bad-end-text
@@ -30,7 +30,7 @@ h1 {
 
 .neutal-end-text
 {
-    color: grey;
+    color: rgb(49, 156, 238);
 }
 
 p {
@@ -149,11 +149,11 @@ p {
 }
 
 .highlight {
-    color: royalblue;
+    color: rgb(97, 200, 238);
 }
 
 .textBacking {
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: rgba(0, 0, 0, 0.4);
     margin-top: 8%;
     margin-bottom: 10px;
     margin-left: 20%;

@@ -15,18 +15,21 @@ h1 {
     font-size: 60px;
     margin-top: 5%;
     letter-spacing: 5px;
+    color: white;
 }
 
 p {
-    font-size: 20px;
+    font-size: 25px;
     margin-bottom: 5%;
+    font-family: AmaticSC-Regular;
+    letter-spacing: 2px;
+    color: white;
 }
 
 .index-bg
 {
    background-image: url(/assets/cabin-outside.jpeg); 
    background-size: cover;
-   color: white;
 }
 
 .tunnel-under-bg

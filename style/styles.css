@@ -3,6 +3,12 @@ body {
     justify-content: center;
 }
 
+.index-bg
+{
+   background-image: url(/assets/an-eerie-desktop-wallpaper-featuring-a-foggy-forest-with-an-abandoned-cabin-in-t-exjvfrdp.jpeg); 
+   background-size: cover;
+}
+
 .centerText {
     text-align: center;
 }

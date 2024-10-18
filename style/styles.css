@@ -44,6 +44,65 @@ p {
     background-size: cover;    
 }
 
+.forest-path-bg
+{
+    background-image: url(/assets/forest-path.png); 
+    background-size: cover;
+}
+
+.go-outside-bg
+{
+    background-image: url(/assets/Go-outside-img.png); 
+    background-size: cover;
+}
+
+.good-end-bg
+{
+    background-image: url(/assets/Fg9HQjBE6XoW9uic5StbQ5-1200-80.png); 
+    background-size: cover;
+}
+
+.start-cabin-bg
+{
+    background-image: url(/assets/cabin-interior.jpg); 
+    background-size: cover;
+}
+
+.explore-mt-bg
+{
+    background-image: url(/assets/explore-mountain.png); 
+    background-size: cover;
+}
+
+.explore-cave-bg
+{
+    background-image: url(/assets/explore-cave.png); 
+    background-size: cover;
+}
+
+.explore-cabin-bg
+{
+    background-image: url(/assets/explore-cabin.png); 
+    background-size: cover;
+}
+
+.dark-cave-bg
+{
+    background-color: black;
+}
+
+.climb-mt-bg
+{
+    background-image: url(/assets/climb-mountain.png); 
+    background-size: cover;
+}
+
+.bad-end-cabin-bg
+{
+    background-image: url(/assets/bEnd-from-cabin.png); 
+    background-size: cover;
+}
+
 .centerText {
     text-align: center;
 }

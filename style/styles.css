@@ -18,6 +18,21 @@ h1 {
     color: white;
 }
 
+.good-end-text
+{
+    color: green;
+}
+
+.bad-end-text
+{
+    color: red;
+}
+
+.neutal-end-text
+{
+    color: grey;
+}
+
 p {
     font-size: 25px;
     margin-bottom: 5%;

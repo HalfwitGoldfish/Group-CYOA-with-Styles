@@ -29,6 +29,18 @@ p {
    color: white;
 }
 
+.tunnel-under-bg
+{
+    background-image: url(/assets/tunnel-cabin.png); 
+    background-size: cover;
+}
+
+.torched-path-bg
+{
+    background-image: url(/assets/torched-end.png); 
+    background-size: cover;    
+}
+
 .centerText {
     text-align: center;
 }

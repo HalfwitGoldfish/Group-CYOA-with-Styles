@@ -1,177 +1,161 @@
 body {
-    background-color: lightgray;
-    justify-content: center;
+  background-color: lightgray;
+  justify-content: center;
 }
 
 button {
-    border-radius: 15px;
-    background-color: rgb(167, 162, 162);
-    width: 120px;
-    height: 35px;
+  border-radius: 15px;
+  background-color: rgb(167, 162, 162);
+  width: 120px;
+  height: 35px;
 }
 
 h1 {
-    font-family: AmaticSC-Regular;
-    font-size: 60px;
-    margin-top: 5%;
-    letter-spacing: 5px;
-    color: white;
+  font-family: AmaticSC-Regular;
+  font-size: 60px;
+  margin-top: 5%;
+  letter-spacing: 5px;
+  color: white;
 }
 
-.good-end-text
-{
-    color: rgb(10, 181, 10);
+.good-end-text {
+  color: rgb(10, 181, 10);
 }
 
-.bad-end-text
-{
-    color: red;
+.bad-end-text {
+  color: red;
 }
 
-.neutal-end-text
-{
-    color: rgb(49, 156, 238);
+.neutal-end-text {
+  color: rgb(49, 156, 238);
 }
 
 p {
-    font-size: 25px;
-    margin-bottom: 5%;
-    font-family: AmaticSC-Regular;
-    letter-spacing: 2px;
-    color: white;
+  font-size: 25px;
+  margin-bottom: 5%;
+  font-family: AmaticSC-Regular;
+  letter-spacing: 2px;
+  color: white;
 }
 
-.index-bg
-{
-   background-image: url(/assets/cabin-outside.jpeg); 
-   background-size: cover;
+.index-bg {
+  background-image: url(/assets/cabin-outside.jpeg);
+  background-size: cover;
 }
 
-.tunnel-under-bg
-{
-    background-image: url(/assets/tunnel-cabin.png); 
-    background-size: cover;
+.tunnel-under-bg {
+  background-image: url(/assets/tunnel-cabin.png);
+  background-size: cover;
 }
 
-.torched-path-bg
-{
-    background-image: url(/assets/torched-end.png); 
-    background-size: cover;    
+.torched-path-bg {
+  background-image: url(/assets/torched-end.png);
+  background-size: cover;
 }
 
-.forest-path-bg
-{
-    background-image: url(/assets/forest-path.png); 
-    background-size: cover;
+.forest-path-bg {
+  background-image: url(/assets/forest-path.png);
+  background-size: cover;
 }
 
-.go-outside-bg
-{
-    background-image: url(/assets/Go-outside-img.png); 
-    background-size: cover;
+.go-outside-bg {
+  background-image: url(/assets/Go-outside-img.png);
+  background-size: cover;
 }
 
-.good-end-bg
-{
-    background-image: url(/assets/Fg9HQjBE6XoW9uic5StbQ5-1200-80.png); 
-    background-size: cover;
+.good-end-bg {
+  background-image: url(/assets/Fg9HQjBE6XoW9uic5StbQ5-1200-80.png);
+  background-size: cover;
 }
 
-.start-cabin-bg
-{
-    background-image: url(/assets/cabin-interior.jpg); 
-    background-size: cover;
+.start-cabin-bg {
+  background-image: url(/assets/cabin-interior.jpg);
+  background-size: cover;
 }
 
-.explore-mt-bg
-{
-    background-image: url(/assets/explore-mountain.png); 
-    background-size: cover;
+.explore-mt-bg {
+  background-image: url(/assets/explore-mountain.png);
+  background-size: cover;
 }
 
-.explore-cave-bg
-{
-    background-image: url(/assets/explore-cave.png); 
-    background-size: cover;
+.explore-cave-bg {
+  background-image: url(/assets/explore-cave.png);
+  background-size: cover;
 }
 
-.explore-cabin-bg
-{
-    background-image: url(/assets/explore-cabin.png); 
-    background-size: cover;
+.explore-cabin-bg {
+  background-image: url(/assets/explore-cabin.png);
+  background-size: cover;
 }
 
-.dark-cave-bg
-{
-    background-color: black;
+.dark-cave-bg {
+  background-color: black;
 }
 
-.climb-mt-bg
-{
-    background-image: url(/assets/climb-mountain.png); 
-    background-size: cover;
+.climb-mt-bg {
+  background-image: url(/assets/climb-mountain.png);
+  background-size: cover;
 }
 
-.bad-end-cabin-bg
-{
-    background-image: url(/assets/bEnd-from-cabin.png); 
-    background-size: cover;
+.bad-end-cabin-bg {
+  background-image: url(/assets/bEnd-from-cabin.png);
+  background-size: cover;
 }
 
 .centerText {
-    text-align: center;
+  text-align: center;
 }
 
 .flex_Containers {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 
 .flex_items {
-    text-align: center;
+  text-align: center;
 }
 
 .choices {
-    display: flex;
-    justify-content: left;
+  display: flex;
+  justify-content: left;
 }
 
 .choicesButtons {
-    margin-left: 5%;
-    margin-right: 5%;
-    margin-bottom: 2%;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 2%;
 }
 
 .linkHider {
-    cursor: default;
-    color: black;
-    text-decoration:none;
+  cursor: default;
+  color: black;
+  text-decoration: none;
 }
 
 .highlight {
-    color: rgb(97, 200, 238);
+  color: rgb(97, 200, 238);
 }
 
 .textBacking {
-    background-color: rgba(0, 0, 0, 0.4);
-    margin-top: 8%;
-    margin-bottom: 10px;
-    margin-left: 20%;
-    margin-right: 20%;
-    border-radius: 100px;
-    border: 2px solid lightgray;
+  background-color: rgba(0, 0, 0, 0.4);
+  margin-top: 8%;
+  margin-bottom: 10px;
+  margin-left: 20%;
+  margin-right: 20%;
+  border-radius: 100px;
+  border: 2px solid lightgray;
 }
 
 .linkDefault {
-    color: white;
+  color: white;
 }
 
 @font-face {
-    font-family: AmaticSC-Regular;
-    src: url(../fonts/AmaticSC-Regular.ttf);
+  font-family: AmaticSC-Regular;
+  src: url(../fonts/AmaticSC-Regular.ttf);
 }
 
 @font-face {
-    font-family: Amatic-Bold;
-    src: url(../fonts/Amatic-Bold.ttf);
+  font-family: Amatic-Bold;
+  src: url(../fonts/Amatic-Bold.ttf);
 }
